@@ -10,6 +10,7 @@
 * Struct
 * Pointer
 * File In/Out
+* Struct Pointer
 * etc
 
 ## C
